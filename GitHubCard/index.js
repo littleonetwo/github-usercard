@@ -9,7 +9,8 @@ let followersURLs = [
   'https://api.github.com/users/CJStryker',
   'https://api.github.com/users/hdnye',
   'https://api.github.com/users/jdd2007',
-  'https://api.github.com/users/keirankozlowski'
+  'https://api.github.com/users/keirankozlowski',
+  'https://api.github.com/users/wtrawlings'
 ];
 
 
